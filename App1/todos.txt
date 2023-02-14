@@ -5,3 +5,4 @@ Buy a camera
 Make soup.
 Make pizza
 Clean the code
+Master Python
