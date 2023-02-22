@@ -1,13 +1,5 @@
-add a new player
 Make soup.
 Make pizza
 My newest todo is added
-Last todo
-Buy grocery
-Visit the new Museum
 Watch Real Madrid Vs Liverpool
-Print the pictures.
-And Lastly.
-Clean the bagFix the computerFix the lampHelp the neighbour
-Get Paper
-Help neighbour
+Clean the bag.
